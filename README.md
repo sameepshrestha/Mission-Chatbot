@@ -1,0 +1,2 @@
+# Mission-Chatbot
+Trying to create a chatbot for facebook messenger. Chatbots are mostly locally biased on the data and for the reason they are trained. This would be my own chatbot for replying the messages in my facebook. Though the data is not as clean as any standard data source. From what I've read so far in multiple research papers the complexity or stacking of the LSTM rarely helps improve the model.  Attention based LSTM are said to be mora accurate than the normal LSTM. So we intend to go first with normal LSTM and  compare its performance with attention model. 
